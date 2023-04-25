@@ -1,4 +1,4 @@
-# Bike Ride
+## Bike Ride
 
 ## Instructions
 * Fork this Repository
